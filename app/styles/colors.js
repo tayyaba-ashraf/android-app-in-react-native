@@ -1,0 +1,23 @@
+export default{
+    Red:"#FF0000",
+    Rose_Red:"#C21E56",
+    Brown:"#412240",
+    Cider_Orange:"#D8A175",
+    Jacaranda:"#22021b",
+    white:"#ffffff",
+    Navy:"#000080",
+    Black:"#171717",
+    Ebony:"#555D50",
+    Dark_Pink:"#AA336A",
+    Davy_Grey:"#555555",
+    Bluetooth_Color:"#CDEEFF",
+    Bluetooth_Line_Color:"#eceff1",
+    Metallic_Silver:"#A7A7AE",
+    Silver:"#DCDCDC",
+    Deep_jungle_green:" #004B49",
+    Forest_green :"#014421",
+    Sand_stone:"#B29082",
+    BlackOpacity20:'rgba(0,0,0,0.2)',
+    BlackOpacity50:'rgba(0,0,0,0.5)',
+    
+}

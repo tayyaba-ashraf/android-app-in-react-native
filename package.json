@@ -1,5 +1,5 @@
 {
-  "name": "arduino_bluetooth_controller",
+  "name": "arduino-bluetooth-controller",
   "version": "0.0.1",
   "private": true,
   "forceConsistentCasingInFileNames": false,

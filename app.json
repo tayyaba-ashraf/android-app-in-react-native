@@ -1,6 +1,6 @@
 {
-  "name": "Arduino_Bluetooth_Controller",
-  "displayName": "Arduino_Bluetooth_Controller",
+  "name": "arduino-bluetooth-controller",
+  "displayName": "arduino-bluetooth-controller",
   "icon": "./app/assets/icon.png",
   "splash": {
     "image": "./app/assets/splash.png",
